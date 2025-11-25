@@ -1,0 +1,32 @@
+# البيئات الافتراضية
+.venv/
+venv/
+env/
+
+# مجلدات النماذج والنتائج
+models/
+training_results/
+
+# ملفات البيئة
+.env
+*.env
+
+# ملفات البيانات الكبيرة
+*.joblib
+*.pkl
+
+# ملفات بايثون مؤقتة
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# ملفات نظام
+.DS_Store
+Thumbs.db
+
+# ملفات IDE
+.vscode/
+.idea/
+*.swp
+*.swo
